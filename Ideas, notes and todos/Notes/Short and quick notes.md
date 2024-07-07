@@ -1,0 +1,4 @@
+- Thư viện C++ có thể cài đặt vào Visual Studio Code được.
+- Kernel là thứ cho phép giao tiếp giữa phần mềm và phần cứng, thường được lập trình bằng ngôn ngữ C và Assembly.
+- MongoDB là NoSQL database management system.
+- Dùng Pocketbase làm Baas (backend as service) cho các dự án, rất dễ sử dụng.

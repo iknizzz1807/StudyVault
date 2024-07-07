@@ -1,0 +1,7 @@
+- TensorFlow Developer Certificate in 2023 Zero to Mastery (xong 2.12) [[Machine Leanring - AI]] [[Python]]
+- Svelte & SvelteKit The Complete Guide(------) [[Sveltekit]] [[Frontend]] [[Backend]]
+- FastAPI - The Complete Course 2023(-------)  [[Python]] [[Backend]]
+- PyTorch for Deep Learning in 2023 Zero to Mastery(xong chương 2 video 13) [[Machine Leanring - AI]] [[Python]]
+- Machine learning for everybody full course(-----)[[Machine Leanring - AI]] [[Python]]
+- The Complete 2023 Web Development Bootcamp(----) [[Frontend]][[Backend]]
+- 

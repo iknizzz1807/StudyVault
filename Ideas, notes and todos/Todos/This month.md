@@ -1,0 +1,6 @@
+- Make a blog using sveltekit (both frontend and backend use sveltekit, the database is sqlite)
+- Find more cool stuff about Sveltekit on discord channel and reddit channel (UI, libraries,...)
+- Use FastAPI to make my own Pocketbase for Noodl. (improve the backend knowledge)
+- Build a openCV project regarding to machine learning, deploy it so that web app can call API from it and use it. Or simpler, do with data.
+- Make one more app using Noodl.
+- Learn Webflow to create landing pages.

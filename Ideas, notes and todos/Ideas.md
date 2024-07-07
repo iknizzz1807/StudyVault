@@ -1,0 +1,22 @@
+- Làm một Web Porfolio (1)
+- Học lập trình Web App bằng code: Sveltkit, Djang(youtube) and Flask... Tìm hiểu về github repo để setup một saas nhanh (1)
+- Học full css(2)
+- SQL database(1)
+- Học thêm react và nextjs(2)
+- Học các khoá học đã tải(1)
+- Machine Learning và AI: courses và youtube, docs, web scrapping(2)
+- Làm Game: Godot(3)
+- Tập luyện digital marketing: 
+	- Làm freelance và để quảng bá chính bản thân
+	- Tập trung vào: social media marketing và email marketing
+- Blockchain, web3: courses và youtube(3)
+- Dropshipping:
+	- Làm marketing bằng việc tạo trang rồi tích cực spam bài trên mạng xã hội, dùng shopify, có thể cân nhắc nhập hàng taobao.
+	- Starter plan: dùng để làm link dưới phần bio, có chức năng thanh toán đầy đủ như một website. Có thể tạo một trang web để giới thiệu thật kỹ, thật đẹp về sản phẩm, rồi phần mua hàng sẽ để cái stareter plan này handle.
+	- Spam email giới thiệu sản phẩm.
+- Làm landing page cho các nhãn hàng. Dùng file lead để nhắn tin gmail, check xem gmail có valid hay không. Nhớ dùng automation(*)
+- Deploy API(backend) bằng Docker Google Cloud Run(chi tiết xem video của fireship)(*)
+- OpenCV with C++
+- ASP.net with C
+- OpenGL
+###### *Thứ tự (1)(2)(3),... lần lượt là mức độ ưu tiên thực hiện của các ý tưởng*

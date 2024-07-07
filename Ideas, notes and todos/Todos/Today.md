@@ -1,0 +1,8 @@
+- [ ] Learn FastAPI
+- [x] Redesign Login template with Noodl
+- [ ] Learn Sveltekit
+- [x] Make cool animation with Noodl
+- [x] Learn DSA
+- [x] Do more with ChatApp
+- [x] Finish chat app chat room
+- [ ] Remake the UI and fix some UX things.
